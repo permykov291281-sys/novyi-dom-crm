@@ -1,0 +1,9 @@
+{
+  "name": "novyi-dom-crm",
+  "version": "1.0.0",
+  "description": "«Новый дом · CRM» — CRM студии ремонта: заявки, сделки, мастера, клиенты, отчёты (MVP)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node --test test/scenario.test.js" },
+  "engines": { "node": ">=18" },
+  "private": true
+}
